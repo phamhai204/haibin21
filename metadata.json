@@ -1,0 +1,5 @@
+{
+  "name": "Copy of BNPL Fintech Demo - Việt Nam",
+  "description": "Một ứng dụng mô phỏng hệ thống Mua Trước Trả Sau (BNPL) với hệ thống tính điểm tín dụng, phát hiện gian lận và biểu đồ quản lý rủi ro.",
+  "requestFramePermissions": []
+}
